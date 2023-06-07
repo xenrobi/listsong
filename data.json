@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Favourite Music",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Song 1",
+            "duration": 200,
+            "genre": "Pop"
+         },
+         {
+            "id": 2,
+            "name": "Song 2",
+            "duration": 200,
+            "genre": "Rock"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "EDM",
+      "songs": [
+         {
+            "id": 1,
+            "name": "Song 1",
+            "duration": "100",
+            "genre": "Rock"
+         }
+      ]
+   }
+]
